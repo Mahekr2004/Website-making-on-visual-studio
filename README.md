@@ -9,7 +9,7 @@ Medilocker is a modern, interactive medical-based website with the following key
        New medical camps and events
 
 ⚙️ Key Functionalities
-      User account creation and login system 
+      User account creation and login system  
       Personal information storage with profile picture and video upload
       Appointment booking with doctors based on specialization and location
       Real-time video consultation interface
